@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
+Welcome to my little corner of GitHub, where ideas turn into code and experiments come to life.  
+I’m a curious explorer in the world of tech, always diving into new challenges and crafting solutions that excite me.  
+Whether it's building minimalistic web apps, tweaking the perfect algorithm, or simply documenting my learning journey, I believe every line of code has a story to tell.  
 
-<!--
-**MeAuvs/MeAuvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to look around, check out my projects, or just say hi! 😊
+---
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Learning: Python, JavaScript，HTML，CSS，PHP.
+- 💡 Interested in: I enjoy art and exploring new things..
+- 📝 Writing on: [[决明胡同](https://meauv.com)].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Let's Connect!
+- 📧 Email: gb74soul@gmail.com
+- 🌐 Blog: meauv.com
+- 🐦 Twitter: [@Jay Cho](https://x.com/mengwusoul)
+- 💼 Telegram: [@Jay Cho](https://t.me/JaysCao)
+
+---
+
+Thanks for stopping by! 😊
